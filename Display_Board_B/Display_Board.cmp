@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by PcbNew date = 7/29/2015 1:07:36 PM
+
+BeginCmp
+TimeStamp = /53263D7B/532CFA49;
+Reference = C200;
+ValeurCmp = 22uF;
+IdModule  = SM1206-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53263D7B/53266185;
+Reference = C201;
+ValeurCmp = 0.1uF;
+IdModule  = SM0805-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53263D7B/53265B0B;
+Reference = EN200;
+ValeurCmp = PEC16-4;
+IdModule  = ROTARY_ENCODER_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53263D7B/53265326;
+Reference = EN201;
+ValeurCmp = PEC16-4;
+IdModule  = ROTARY_ENCODER_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53263D7B/532CFF5C;
+Reference = FB200;
+ValeurCmp = BEAD;
+IdModule  = SM0805-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53263D7B/538A6370;
+Reference = P9;
+ValeurCmp = CONN_8X2;
+IdModule  = HDR_8x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53263D7B/532672AB;
+Reference = Q200;
+ValeurCmp = IRLML2060TRPBF;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /53263D7B/53265C12;
+Reference = R200;
+ValeurCmp = 4.12;
+IdModule  = SM0805-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53263D7B/53265FED;
+Reference = R201;
+ValeurCmp = 4.12;
+IdModule  = SM0805-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53263D7B/53265FF3;
+Reference = R202;
+ValeurCmp = 4.12;
+IdModule  = SM0805-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53263D7B/53265FF9;
+Reference = R203;
+ValeurCmp = 4.12;
+IdModule  = SM0805-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53263D7B/53267658;
+Reference = R204;
+ValeurCmp = 10.0;
+IdModule  = SM0805-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53263D7B/53268018;
+Reference = R205;
+ValeurCmp = 10.0K;
+IdModule  = SM0805-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53263D7B/532646C2;
+Reference = U200;
+ValeurCmp = LCD__TM022HDH26;
+IdModule  = TM022HDH26;
+EndCmp
+
+EndListe
