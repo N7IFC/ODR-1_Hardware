@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 6/6/2015 10:43:40 AM
+EESchema-LIBRARY Version 2.3  Date: 8/1/2015 10:15:41 AM
 #encoding utf-8
 #
 # +5VA
@@ -236,7 +236,7 @@ ENDDEF
 #
 # DIODESCH
 #
-DEF DIODESCH D 0 40 N N 1 F N
+DEF DIODESCH D 0 40 Y N 1 F N
 F0 "D" 0 100 40 H V C CNN
 F1 "DIODESCH" 0 -100 40 H V C CNN
 F2 "~" 0 0 60 H V C CNN

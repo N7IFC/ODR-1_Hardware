@@ -13,6 +13,11 @@
   )
 
   (page A)
+  (title_block 
+    (title "ODR-1 PROCESSOR BOARD")
+    (rev A)
+  )
+
   (layers
     (15 Top.Cu signal)
     (2 Gnd.Cu signal hide)

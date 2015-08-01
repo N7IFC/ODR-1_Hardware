@@ -13,6 +13,11 @@
   )
 
   (page USLetter)
+  (title_block 
+    (title "ODR-1 OSC & MIXER BOARD")
+    (rev A1)
+  )
+
   (layers
     (15 F.Cu signal)
     (2 Ground.Cu power hide)

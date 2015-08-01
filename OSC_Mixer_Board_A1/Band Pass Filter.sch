@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 7/31/2015 4:33:48 PM
+EESchema Schematic File Version 2  date 8/1/2015 10:15:41 AM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -10,7 +10,6 @@ LIBS:cmos4000
 LIBS:adc-dac
 LIBS:memory
 LIBS:xilinx
-LIBS:special
 LIBS:microcontrollers
 LIBS:dsp
 LIBS:microchip
