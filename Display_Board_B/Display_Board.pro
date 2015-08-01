@@ -1,4 +1,4 @@
-update=7/31/2015 4:23:35 PM
+update=7/31/2015 7:24:02 PM
 version=1
 last_client=eeschema
 [general]
@@ -79,5 +79,3 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=D:/programs/Electronics Related/KiCad Libraries/Bills
-LibName32=D:/programs/Electronics Related/KiCad Libraries/LCD

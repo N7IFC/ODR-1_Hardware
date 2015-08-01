@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 7/31/2015 4:23:40 PM
+EESchema Schematic File Version 2  date 7/31/2015 7:26:30 PM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,8 +29,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:Bills
-LIBS:LCD
 LIBS:Display_Board-cache
 EELAYER 27 0
 EELAYER END
