@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 8/1/2015 10:15:41 AM
+EESchema Schematic File Version 2  date 8/2/2015 7:43:02 AM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -35,7 +35,7 @@ $Descr A 11000 8500
 encoding utf-8
 Sheet 1 6
 Title "ODR-1 OSC & MIXER BOARD"
-Date "31 jul 2015"
+Date "2 aug 2015"
 Rev "A"
 Comp ""
 Comment1 ""
@@ -249,4 +249,6 @@ Text Notes 4700 4900 0    50   ~ 0
 BP N7IFC
 Text Notes 5200 4900 0    50   ~ 0
 JUN 2015
+Text Notes 1100 7650 0    60   ~ 0
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\nTo view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/\nor send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 $EndSCHEMATC

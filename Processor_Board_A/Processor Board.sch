@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 8/1/2015 10:16:21 AM
+EESchema Schematic File Version 2  date 8/2/2015 7:12:12 AM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -35,7 +35,7 @@ $Descr A 11000 8500
 encoding utf-8
 Sheet 1 5
 Title "ODR-1 PROCESSOR & CODEC BOARD"
-Date "31 jul 2015"
+Date "2 aug 2015"
 Rev "A"
 Comp ""
 Comment1 ""
@@ -235,4 +235,6 @@ Wire Notes Line
 	6000 2100 6000 1900
 Text Notes 5800 1900 0    80   ~ 16
 POWER
+Text Notes 1150 7650 0    60   ~ 0
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\nTo view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/\nor send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 $EndSCHEMATC

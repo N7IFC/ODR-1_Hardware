@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 8/1/2015 10:16:52 AM
+EESchema Schematic File Version 2  date 8/2/2015 6:47:50 AM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -35,7 +35,7 @@ $Descr A 11000 8500
 encoding utf-8
 Sheet 1 2
 Title "ODR-1 DISPLAY BOARD"
-Date "31 jul 2015"
+Date "2 aug 2015"
 Rev "B"
 Comp ""
 Comment1 ""
@@ -225,4 +225,6 @@ Text Notes 4650 4950 0    50   ~ 0
 BP N7IFC
 Text Notes 5200 4950 0    50   ~ 0
 JUL 2015
+Text Notes 1200 7650 0    60   ~ 0
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\nTo view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/\nor send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 $EndSCHEMATC

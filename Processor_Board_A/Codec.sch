@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 8/1/2015 10:16:21 AM
+EESchema Schematic File Version 2  date 8/2/2015 7:12:12 AM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -35,7 +35,7 @@ $Descr A 11000 8500
 encoding utf-8
 Sheet 4 5
 Title "ODR-1 PROCESSOR & CODEC BOARD"
-Date "31 jul 2015"
+Date "2 aug 2015"
 Rev "A"
 Comp ""
 Comment1 ""

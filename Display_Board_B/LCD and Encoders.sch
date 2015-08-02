@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 8/1/2015 10:16:52 AM
+EESchema Schematic File Version 2  date 8/2/2015 6:47:50 AM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -35,7 +35,7 @@ $Descr A 11000 8500
 encoding utf-8
 Sheet 2 2
 Title "ODR-1 DISPLAY BOARD"
-Date "31 jul 2015"
+Date "2 aug 2015"
 Rev "B"
 Comp ""
 Comment1 ""
