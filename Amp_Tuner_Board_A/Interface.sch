@@ -1,0 +1,150 @@
+EESchema Schematic File Version 2  date 1/2/2016 8:07:38 PM
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:Amp_Tuner_Board-cache
+EELAYER 27 0
+EELAYER END
+$Descr USLetter 11000 8500
+encoding utf-8
+Sheet 2 5
+Title "ODR-1 RF Amp & Antenna Tuner Board"
+Date "3 jan 2016"
+Rev "A"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L CONN_12 P2
+U 1 1 5688404E
+P 1400 1550
+F 0 "P2" H 1450 2200 60  0000 C CNN
+F 1 "CONN_12" H 1300 850 60  0000 C CNN
+F 2 "~" H 1400 1550 60  0000 C CNN
+F 3 "~" H 1400 1550 60  0000 C CNN
+	1    1400 1550
+	-1   0    0    -1  
+$EndComp
+$Comp
+L CONN_12 P4
+U 1 1 5688407E
+P 1400 3250
+F 0 "P4" H 1450 3900 60  0000 C CNN
+F 1 "CONN_12" H 1300 2550 60  0000 C CNN
+F 2 "~" H 1400 3250 60  0000 C CNN
+F 3 "~" H 1400 3250 60  0000 C CNN
+	1    1400 3250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L CONN_12 P6
+U 1 1 56884084
+P 1400 5000
+F 0 "P6" H 1450 5650 60  0000 C CNN
+F 1 "CONN_12" H 1300 4300 60  0000 C CNN
+F 2 "~" H 1400 5000 60  0000 C CNN
+F 3 "~" H 1400 5000 60  0000 C CNN
+	1    1400 5000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L C C1
+U 1 1 568840B2
+P 3150 1800
+F 0 "C1" H 3200 1900 40  0000 L CNN
+F 1 "C" H 3200 1650 40  0000 L CNN
+F 2 "~" H 3188 1650 30  0000 C CNN
+F 3 "~" H 3150 1800 60  0000 C CNN
+	1    3150 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R1
+U 1 1 568840C1
+P 3800 1800
+F 0 "R1" V 3900 1750 40  0000 C CNN
+F 1 "R" V 3700 1750 40  0000 C CNN
+F 2 "~" V 3730 1800 30  0000 C CNN
+F 3 "~" H 3800 1800 30  0000 C CNN
+	1    3800 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 MH2
+U 1 1 56886FE8
+P 1600 6500
+F 0 "MH2" V 1700 6450 40  0000 L CNN
+F 1 "CONN_1" H 1600 6555 30  0001 C CNN
+F 2 "~" H 1600 6500 60  0000 C CNN
+F 3 "~" H 1600 6500 60  0000 C CNN
+	1    1600 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L GND #PWR01
+U 1 1 56887021
+P 1600 6750
+F 0 "#PWR01" H 1600 6750 30  0001 C CNN
+F 1 "GND" H 1600 6680 30  0001 C CNN
+F 2 "~" H 1600 6750 60  0000 C CNN
+F 3 "~" H 1600 6750 60  0000 C CNN
+	1    1600 6750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1600 6650 1600 6750
+$Comp
+L CONN_1 MH1
+U 1 1 56887038
+P 1300 6500
+F 0 "MH1" V 1400 6450 40  0000 L CNN
+F 1 "CONN_1" H 1300 6555 30  0001 C CNN
+F 2 "~" H 1300 6500 60  0000 C CNN
+F 3 "~" H 1300 6500 60  0000 C CNN
+	1    1300 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L GND #PWR02
+U 1 1 5688703E
+P 1300 6750
+F 0 "#PWR02" H 1300 6750 30  0001 C CNN
+F 1 "GND" H 1300 6680 30  0001 C CNN
+F 2 "~" H 1300 6750 60  0000 C CNN
+F 3 "~" H 1300 6750 60  0000 C CNN
+	1    1300 6750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 6650 1300 6750
+$EndSCHEMATC
