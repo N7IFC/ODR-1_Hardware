@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 1/2/2016 8:07:38 PM
+EESchema Schematic File Version 2  date 1/3/2016 9:08:26 PM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -36,7 +36,7 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 5 5
 Title "ODR-1 RF Amp & Antenna Tuner Board"
-Date "3 jan 2016"
+Date "4 jan 2016"
 Rev "A"
 Comp ""
 Comment1 ""

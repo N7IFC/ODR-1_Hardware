@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 1/2/2016 8:07:38 PM
+EESchema Schematic File Version 2  date 1/3/2016 9:08:26 PM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -36,7 +36,7 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 4 5
 Title "ODR-1 RF Amp & Antenna Tuner Board"
-Date "3 jan 2016"
+Date "4 jan 2016"
 Rev "A"
 Comp ""
 Comment1 ""
@@ -44,4 +44,15 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Comp
+L TRANS_BIN-1 T?
+U 1 1 5689683F
+P 8150 4000
+F 0 "T?" H 8150 4400 70  0000 C CNN
+F 1 "TRANS_BIN-1" H 8150 3600 70  0000 C CNN
+F 2 "~" V 8150 4200 60  0000 C CNN
+F 3 "~" V 8150 4200 60  0000 C CNN
+	1    8150 4000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
