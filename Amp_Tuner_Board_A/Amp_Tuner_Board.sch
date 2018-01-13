@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 1/3/2016 9:08:26 PM
+EESchema Schematic File Version 2  date 1/5/2016 6:14:15 PM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -30,13 +30,14 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:Amp_Tuner_Board-cache
+LIBS:Amp_Tuner_Board-cache
 EELAYER 27 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 5
 Title "ODR-1 RF Amp & Antenna Tuner Board"
-Date "4 jan 2016"
+Date "6 jan 2016"
 Rev "A"
 Comp ""
 Comment1 ""
