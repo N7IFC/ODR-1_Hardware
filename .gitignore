@@ -5,4 +5,5 @@
 *.log
 *.dcm
 *.kicad_pcb-bak
+*.tmp
 *autosave*
