@@ -11,6 +11,9 @@ Each board hardware revision will have its own directory. When the circuit board
 
 All schematic capture and layout is done with stable releases of KiCAD. You are encouraged to support the KiCAD development team as it is an outstanding collection of software.
 
+Hardware - https://github.com/N7IFC/ODR-1_Hardware
+Firmware - https://github.com/sylvanwilliams/ODR-1_Firmware
+
 73s!
 
 Bill N7IFC
